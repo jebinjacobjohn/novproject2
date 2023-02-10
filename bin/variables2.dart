@@ -7,7 +7,7 @@ void main()
   String email= "jebinjj@gmail.com";
 
   print(" My Resume");
-  print("My name is $name");
+  print("My name is $name"); //string interpolation
   print("I am $age years old");
   print(" My phone number is $phone");
   print("I have $mark cgpa in graduation");
